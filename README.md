@@ -10,6 +10,6 @@ This repository serves as a centralized archive for various software and documen
 
 ## Contribute
 
-If you have other versions of the DJ-MD5 software or documentation not included here, feel free to send them to me at **morten@jakeobsen.com** — I'd be happy to add them to help others in the community.
+If you have other versions of the DJ-MD5 software or documentation not included here, feel free to send them to me at **morten <at> jakeobsen <dot> com** — I'd be happy to add them to help others in the community.
 
 Thanks for visiting, and 73!
